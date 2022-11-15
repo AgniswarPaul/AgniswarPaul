@@ -6,7 +6,7 @@
 <!--[![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-square&logo=medium&logoColor=white)](https://gapur-kassym.medium.com/)--->
 <!--[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/GKassym)--->
 
-### Glad to see you here! 
+### I'm happy to see you here! 
 
 I am a Computer Engineering graduate student at Northeastern University and I am interested in Software Development and Site Reliability Engineering.
 
