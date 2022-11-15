@@ -28,21 +28,21 @@ I am a Computer Engineering graduate student at Northeastern University and I am
 
 📈 **My GitHub Stats:**
 
-<p>
+<!-- <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AgniswarPaul&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AgniswarPaul&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-</p>
+</p> -->
 
 <picture>
 <source 
-  srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+  srcset="https://github-readme-stats.vercel.app/api?username=AgniswarPaul&show_icons=true&theme=radical"
   media="(prefers-color-scheme: dark)"
 />
 <source
-  srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+  srcset="https://github-readme-stats.vercel.app/api?username=AgniswarPaul&show_icons=true"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=AgniswarPaul&show_icons=true" />
 </picture>
 
 
