@@ -13,6 +13,8 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gapur&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 - 👋 Hi, I’m @AgniswarPaul
 - 👀 I’m interested in Software Development and Site Reliability Engineering
