@@ -14,7 +14,7 @@ I am a Computer Engineering graduate student at Northeastern University and I am
 
 
 <img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/main/assets/coding.gif?raw=true" width="408" height="318" />
-  
+</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
 **Talking about Personal Stuffs:**
 
