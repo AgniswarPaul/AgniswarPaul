@@ -13,7 +13,7 @@ I am a Computer Engineering graduate student at Northeastern University and I am
 
 
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="408" height="318" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200" height="200" />
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
 **Talking about Personal Stuffs:**
