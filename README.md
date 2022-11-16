@@ -1,4 +1,4 @@
-<h1> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30px">Howdy!, I am <a href="https://github.com/AgniswarPaul">AgniswarPaul</a> <img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"></h1>
+<h1> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30px">Howdy!, I am <a href="https://github.com/AgniswarPaul">Agniswar</a> <img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"></h1>
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/agniswar-paul)
@@ -34,7 +34,7 @@ I am a Computer Engineering graduate student at Northeastern University and I am
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AgniswarPaul&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p> -->
 
-<picture>
+<p>
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=AgniswarPaul&show_icons=true&theme=radical"
   media="(prefers-color-scheme: dark)"
@@ -44,11 +44,8 @@ I am a Computer Engineering graduate student at Northeastern University and I am
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
 <img src="https://github-readme-stats.vercel.app/api?username=AgniswarPaul&show_icons=true" />
-</picture>
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AgniswarPaul&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
+</p>
 
 <!---
 <div id="header" align="center">
