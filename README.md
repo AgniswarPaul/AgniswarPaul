@@ -9,7 +9,7 @@
 
 ### Happy to see you here! 
 
-I am a Computer Engineering graduate student at Northeastern University and I am interested in Software Development and Site Reliability Engineering.
+I am a Engineering Management graduate student at Northeastern University and I am interested in Software Engineering and Prouct Management.
 
 
 
