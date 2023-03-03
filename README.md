@@ -9,7 +9,7 @@
 
 ### Happy to see you here! 
 
-I am an Engineering Management graduate student at Northeastern University and I am interested in Software Engineering and Prouct Management.
+I am an Engineering Management graduate student at Northeastern University and I am interested in Product Management and Software Development.
 
 
 
